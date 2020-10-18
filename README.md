@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Robert, welcome to my github profile!
+
+📫 How to reach me: 📧 in bio.
+
 <!--
 **rt95/rt95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
