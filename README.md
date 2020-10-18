@@ -2,7 +2,7 @@
 
 My name is Robert, welcome to my github profile!
 
-💡 Interested in blockchain technology and UX & UI Design.
+💡 Interested and learning blockchain technology and UX & UI Design right now.
 
 📫 How to reach me: 📧 under bio.
 
