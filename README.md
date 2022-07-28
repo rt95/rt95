@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Robert, welcome to my github profile!
-
 📫 How to reach me: 📧 under bio.
 
 
