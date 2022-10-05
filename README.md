@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-📫 How to reach me: 📧 under bio.
+📫 How to reach me: 📧 in bio.
 
 
 <!--
